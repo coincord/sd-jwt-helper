@@ -78,6 +78,7 @@ export const defaultHasher = (
   );
 };
 
+// NOTE: Might not be needed
 interface IDisclosureFrame {
   _sd?: string[];
   _sd_decoy?: number;
